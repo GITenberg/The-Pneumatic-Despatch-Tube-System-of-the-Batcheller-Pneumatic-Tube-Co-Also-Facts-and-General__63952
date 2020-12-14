@@ -1,5 +1,8 @@
 _repo: The-Pneumatic-Despatch-Tube-System-of-the-Batcheller-Pneumatic-Tube-Co-Also-Facts-and-General__63952
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63952-h/images/cover.jpg
 creator:
   author:
     agent_name: Batcheller, Birney C. (Birney Clark)
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '52682'
     url: http://www.gutenberg.org/2009/agents/52682
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63952#The-Pneumatic-Despatch-Tube-System-of-the-Batcheller-Pneumatic-Tube-Co-Also-Facts-and-General_
 gutenberg_issued: '2020-12-03'
 gutenberg_type: Text
 identifiers:
