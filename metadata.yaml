@@ -1,0 +1,29 @@
+_repo: The-Pneumatic-Despatch-Tube-System-of-the-Batcheller-Pneumatic-Tube-Co-Also-Facts-and-General__63952
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Batcheller, Birney C. (Birney Clark)
+    aliases:
+    - Batcheller, Birney Clark
+    - Batcheller, B. C.
+    birthdate: 1865
+    deathdate: 1950
+    gutenberg_agent_id: '52682'
+    url: http://www.gutenberg.org/2009/agents/52682
+description: ''
+gutenberg_issued: '2020-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63952'
+  lccn: 06034518
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pneumatic-tube transportation'
+- !lcc 'TJ'
+- GITenberg
+title: "The Pneumatic Despatch Tube System of the Batcheller Pneumatic Tube Co.\r\n\
+  Also, Facts and General Information Relating to Pneumatic Despatch Tubes"
+url: http://www.gutenberg.org/ebooks/63952
